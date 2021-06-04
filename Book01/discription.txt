@@ -1,1 +1,2 @@
 - Livro: Automatizando Tarefas Maçantes Com Python
+- Autor: Al Swigart
