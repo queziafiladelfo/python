@@ -1,4 +1,4 @@
-# loop while
+# loop while.
 while True:
     print("Who are you?")
     name = input()
